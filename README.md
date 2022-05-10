@@ -5,7 +5,7 @@
 I'm from Madrid, Spain and I'm currently working as a Senior Frontend Developer at [reclamador.es](https://www.reclamador.es/).
 
 - 🦸‍♀️ Frontend Developer
-- 🧭 Lazy [Github](https://github.com/LissetteIbnz) contributor
+- 🧭 Lazy [Github](https://github.com/VictorMerino) contributor
 - 🎼 Electronic music player
 
 ## I use to work with this technologies
