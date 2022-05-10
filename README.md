@@ -6,7 +6,7 @@ I'm from Madrid, Spain and I'm currently working as a Senior Frontend Developer 
 
 - 🦸‍♀️ Frontend Developer
 - 🧭 Lazy [Github](https://github.com/LissetteIbnz) contributor
-- 🏀 Electronic music player
+- 🎼 Electronic music player
 
 ## I use to work with this technologies
 
