@@ -2,11 +2,11 @@
 
 <!-- ## About me -->
 
-I'm from Madrid, Spain and I'm currently working as a Senior Frontend Developer at [reclamador.es](https://www.reclamador.es/).
+This is Víctor, from Madrid, Spain and I'm currently working as a Senior Frontend Developer at [reclamador.es](https://www.reclamador.es/).
 
 - 🦸‍♀️ Frontend Developer
 - 🧭 Lazy [Github](https://github.com/VictorMerino) contributor
-- 🎼 Electronic music player
+- 🎼 Electronic music and psychedelic rock lover
 
 ## I use to work with this technologies
 
@@ -14,9 +14,15 @@ I'm from Madrid, Spain and I'm currently working as a Senior Frontend Developer 
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="JavaScript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="TypeScript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vue.svg" alt="Vue" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nuxt.svg" alt="Nuxt" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg" alt="Node" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" alt="Python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/django.svg" alt="Django" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/graphql.svg" alt="Graph QL" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jest.svg" alt="Jest" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vite.svg" alt="Vite" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-sass.svg" alt="Sass" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/postcss.svg" alt="Post CSS" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="CSS" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="HTML" width="25" height="25" />
 </p>
@@ -25,6 +31,7 @@ I'm from Madrid, Spain and I'm currently working as a Senior Frontend Developer 
 <p align="left">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="React" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/figma.svg" alt="Figma" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/storybook.svg" alt="Storybook" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cypress.svg" alt="Cypress" width="25" height="25" />
 </p>
 <!--
