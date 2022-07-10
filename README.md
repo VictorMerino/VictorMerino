@@ -2,7 +2,7 @@
 
 <!-- ## About me -->
 
-This is Víctor, from Madrid, Spain and I'm currently working as a Senior Frontend Developer at [reclamador.es](https://www.reclamador.es/).
+This is Víctor, from Madrid (Spain), currently working as a Senior Frontend Developer at [Jungheinrich Digital Solutions](https://www.jungheinrich.es).
 
 - 🦸‍♀️ Frontend Developer
 - 🧭 Lazy [Github](https://github.com/VictorMerino) contributor
