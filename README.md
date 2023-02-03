@@ -8,11 +8,12 @@ This is Víctor, from Madrid (Spain), currently working as a Senior Frontend Dev
 - 🧭 Lazy [Github](https://github.com/VictorMerino) contributor
 - 🎼 Electronic music and psychedelic rock lover
 
-## I use to work with this technologies
+## I work with these technologies
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="JavaScript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="TypeScript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="React" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vue.svg" alt="Vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nuxt.svg" alt="Nuxt" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg" alt="Node" width="25" height="25" />
@@ -27,12 +28,15 @@ This is Víctor, from Madrid (Spain), currently working as a Senior Frontend Dev
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="HTML" width="25" height="25" />
 </p>
 
-##  🌱 I’m currently learning ...
+##  🌱 I’m currently learning (or in the short term roadmap)...
 <p align="left">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" alt="React" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next_light.svg" alt="Next" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/astro.svg" alt="Astro" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/figma.svg" alt="Figma" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/storybook.svg" alt="Storybook" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/storybook.svg" alt="Storybook" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cypress.svg" alt="Cypress" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/playwright.svg" alt="Playwright" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/rust.svg" alt="Rust" width="25" height="25" />
 </p>
 <!--
 **VictorMerino/VictorMerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
