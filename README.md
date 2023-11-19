@@ -23,8 +23,11 @@ This is Víctor, from Madrid (Spain), currently working as a Senior Frontend Dev
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" alt="Python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/django.svg" alt="Django" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/graphql.svg" alt="Graph QL" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jest.svg" alt="Jest" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vite.svg" alt="Vite" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vitest.svg" alt="Vitest" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jest.svg" alt="Jest" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cypress.svg" alt="Cypress" width="25" height="25" />
+
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-sass.svg" alt="Sass" width="25" height="25" />
@@ -35,11 +38,11 @@ This is Víctor, from Madrid (Spain), currently working as a Senior Frontend Dev
 
 ##  🌱 Short term roadmap...
 <p align="left">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next_light.svg" alt="Next" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/figma.svg" alt="Figma" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/stencil.svg" alt="Stencil" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/storybook.svg" alt="Storybook" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cypress.svg" alt="Cypress" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/playwright.svg" alt="Playwright" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next_light.svg" alt="Next" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/rust.svg" alt="Rust" width="25" height="25" />
 </p>
 <!--
