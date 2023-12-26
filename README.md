@@ -6,7 +6,7 @@ This is Víctor, from Madrid (Spain), currently working as a Senior Frontend Dev
 
 - 🦸‍♀️ Frontend Developer
 - 🧭 Lazy [Github](https://github.com/VictorMerino) contributor
-- 🎼 Electronic music and psychedelic rock lover
+- 🎼 Electronic music and psychedelic/progressive rock lover
 
 ## I work with these technologies
 
