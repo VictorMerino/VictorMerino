@@ -5,10 +5,11 @@
 This is Víctor, from Madrid (Spain), currently working as a Senior Frontend Developer at [Jungheinrich Digital Solutions](https://www.jungheinrich.es).
 
 - 🦸‍♀️ Frontend Developer
+- 🕹️ UX enthusiastic
 - 🧭 Lazy [Github](https://github.com/VictorMerino) contributor
 - 🎼 Electronic music and psychedelic/progressive rock lover
 
-## I work with these technologies
+## I work with these technologies (and much more)
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="JavaScript" width="25" height="25" />
@@ -39,12 +40,13 @@ This is Víctor, from Madrid (Spain), currently working as a Senior Frontend Dev
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="HTML" width="25" height="25" />
 </p>
 
-##  🌱 Short term roadmap...
+<!-- ##  🌱 Short term roadmap...
 <p align="left">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/playwright.svg" alt="Playwright" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next_light.svg" alt="Next" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/rust.svg" alt="Rust" width="25" height="25" />
 </p>
+-->
 <!--
 **VictorMerino/VictorMerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
