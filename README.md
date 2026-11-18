@@ -10,7 +10,7 @@
 
 Senior frontend dev with a UX itch. I spend most of my time making interfaces that feel obvious to use — which is a lot harder than it sounds.
 
-Outside work: studying game UX, digging through AI tools to see what actually sticks, and probably listening to a 20-minute IDM or prog track right now and/or playing a platform video game.
+Outside work: studying game UX, playing daily with AI tools to see what actually sticks, and probably listening to a 20-minute IDM or prog track right now and/or playing a platform video game.
 
 ---
 
@@ -57,11 +57,13 @@ Outside work: studying game UX, digging through AI tools to see what actually st
 
 ---
 
-## 🌱 Currently
+## 🌱 What I've been doing last months
 
-Taking a **UX for Videogames** course — designing for players is its own discipline and it's genuinely fascinating.
+#### Courses:
+- **UX for Videogames** course — designing for players is its own discipline and it's genuinely fascinating.
+- **Master in AI-Driven Development**, because understanding the tools you use every day is a good idea.
 
-Also doing a **Master in AI-Driven Development**, because understanding the tools you use every day seems like a good idea.
+#### Some pet projects, stay tuned
 
 ---
 
